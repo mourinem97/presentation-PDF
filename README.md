@@ -11,8 +11,10 @@ The movies analysed were scrapped from IMDb website,cleaned,explored and visuali
 * Matplotlib.pyplot
 * seaborn
 * numpy
+
 From the analysis of the top performing movies,none of the movies had a rating of below 8.0 and this means for a new movie studio,
-these 250 movies are to go for without a risk of having dead stock.
+these 250 movies are to go for without a risk of having dead stock.However,it was noteable that those movies which had high rating of 9 and above,the number of people 
+watching them was low as compared to those in the rating range of 8.0-8.9,from the analysis,this could be due to different genres of the movies which is a contributor of preference.
 
 #Watch a full series of the top 250 best performing movies below:
 https://www.imdb.com/chart/top/?ref_=ext_shr_lnk
